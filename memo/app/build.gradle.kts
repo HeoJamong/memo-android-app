@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ssafy.memo"
+    namespace = "com.heojamong.memo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.ssafy.memo"
+        applicationId = "com.heojamong.memo"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

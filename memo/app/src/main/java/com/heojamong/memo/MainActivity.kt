@@ -1,4 +1,4 @@
-package com.ssafy.memo
+package com.heojamong.memo
 
 import android.content.Intent
 import android.os.Bundle
@@ -10,7 +10,7 @@ import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import com.ssafy.memo.databinding.ActivityMainBinding
+import com.heojamong.memo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

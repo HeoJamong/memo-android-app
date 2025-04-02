@@ -1,4 +1,4 @@
-package com.ssafy.memo
+package com.heojamong.memo
 
 data class MemoItem(val title:String, val content:String, val regDate: String) {
     override fun toString(): String {

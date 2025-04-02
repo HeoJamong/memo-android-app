@@ -1,10 +1,10 @@
-package com.ssafy.memo
+package com.heojamong.memo
 
 import android.app.Activity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.ssafy.memo.databinding.ActivityEditBinding
+import com.heojamong.memo.databinding.ActivityEditBinding
 import java.text.SimpleDateFormat
 import java.util.*
 

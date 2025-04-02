@@ -1,4 +1,4 @@
-package com.ssafy.memo
+package com.heojamong.memo
 
 object MemoItemMgr {
 

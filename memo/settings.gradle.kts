@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ws_android_ui_04_3"
+rootProject.name = "memo"
 include(":app")
  
